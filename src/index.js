@@ -1,7 +1,7 @@
 import React from 'react'
 import { render } from 'react-dom'
 import { Router, Route, Link, browserHistory } from 'react-router'
-import BasicComponent from './basic/BasicComponent';
+import BasicComponent from './basic/basic-component';
 import NoPageFound from './error/NoPageFound';
 
 render((
